@@ -37,8 +37,12 @@
 <v t="leo.20160516100958.1" a="E"><vh>@path cdw12</vh>
 <v t="leo.20160623145118.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20160623144932.1"><vh>@path cdw13</vh></v>
-<v t="leo.20160623144920.1"><vh>@path cdw14</vh></v>
+<v t="leo.20160623144932.1" a="E"><vh>@path cdw13</vh>
+<v t="leo.20160624084545.1"><vh>@auto ag1_40323107_cdw13.py</vh></v>
+</v>
+<v t="leo.20160623144920.1" a="E"><vh>@path cdw14</vh>
+<v t="leo.20160624100559.1"><vh>@auto ag1_40323107_cdw14.py</vh></v>
+</v>
 <v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
@@ -110,10 +114,12 @@ app.register_blueprint(users.a.g3.ag3_40323108.ag3_40323108)
 app.register_blueprint(users.a.g3.ag3_40323108_task2bacd.ag3_40323108bacd)
 app.register_blueprint(users.a.g3.ag3_40323108_task3abcd.ag3_40323108task3)
 app.register_blueprint(users.b.g9.bg9_40323250.bg9_40323250)
-
 app.register_blueprint(users.a.g4.ag4_40323109.ag4_40323109)
 app.register_blueprint(users.a.g4.ag4_40323109_task2bacd.ag4_40323109bacd)
 app.register_blueprint(users.a.g4.ag4_40323109_task3abcd.ag4_40323109task3)
+app.register_blueprint(users.a.g1.cdw13.ag1_40323107_cdw13.ag1_40323107_cdw13)
+app.register_blueprint(users.a.g1.cdw14.ag1_40323107_cdw14.ag1_40323107_cdw14)
+
 #bg1
 app.register_blueprint(users.b.g1.bg1_40123156.bg1_40123156)
 app.register_blueprint(users.b.g1.bg1_40123156_2.bg1_40123156_2)
@@ -370,6 +376,8 @@ import users.a.g3.ag3_40323108_task3abcd
 import users.a.g4.ag4_40323109
 import users.a.g4.ag4_40323109_task2bacd
 import users.a.g4.ag4_40323109_task3abcd
+import users.a.g1.cdw13.ag1_40323107_cdw13
+import users.a.g1.cdw14.ag1_40323107_cdw14
 #bg1
 import users.b.g1.bg1_40123156
 import users.b.g1.bg1_40123156_2
