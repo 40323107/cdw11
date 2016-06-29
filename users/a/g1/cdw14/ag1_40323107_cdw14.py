@@ -587,7 +587,7 @@ class Spur(object):
     def __init__(self, ctx):
         self.ctx = ctx
  
-    def create_line(self, x1, y1, x2, y2, width=3, fill="red"):
+    def create_line(self, x1, y1, x2, y2, width=3, fill="orange"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
@@ -708,11 +708,11 @@ ctx = canvas.getContext("2d")
 # 壓力角 pa 單位為角度
 pa = 20
 # 第1齒輪齒數
-n_g1 = 17
+n_g1 = 20
 # 第2齒輪齒數
-n_g2 = 11
+n_g2 = 10
 # 第3齒輪齒數
-n_g3 = 13
+n_g3 = 15
 # m 為模數, 根據畫布的寬度, 計算適合的模數大小
 m = (0.8*canvas.width)/(n_g1+n_g2+n_g3)
 # 根據模數 m, 計算各齒輪的節圓半徑
@@ -742,7 +742,7 @@ ctx.rotate(math.pi/2)
 # put it back
 ctx.translate(-x_g1, -y_g1)
 # 繪製第一個齒輪輪廓
-Spur(ctx).Gear(x_g1, y_g1, rp_g1, n_g1, pa, "blue")
+Spur(ctx).Gear(x_g1, y_g1, rp_g1, n_g1, pa, "red")
 ctx.restore()
  
 # 將第2齒輪逆時鐘轉 90 度之後, 再多轉一齒, 以便與第1齒輪進行囓合
@@ -753,7 +753,7 @@ ctx.translate(x_g2, y_g2)
 ctx.rotate(-math.pi/2-math.pi/n_g2)
 # put it back
 ctx.translate(-x_g2, -y_g2)
-Spur(ctx).Gear(x_g2, y_g2, rp_g2, n_g2, pa, "black")
+Spur(ctx).Gear(x_g2, y_g2, rp_g2, n_g2, pa, "yellow")
 ctx.restore()
  
 # 將第3齒輪逆時鐘轉 90 度之後, 再往回轉第2齒輪定位帶動轉角, 然後再逆時鐘多轉一齒, 以便與第2齒輪進行囓合
@@ -771,7 +771,7 @@ ctx.translate(x_g3, y_g3)
 ctx.rotate(-math.pi/2-math.pi/n_g3+(math.pi+math.pi/n_g2)*n_g2/n_g3)
 # put it back
 ctx.translate(-x_g3, -y_g3)
-Spur(ctx).Gear(x_g3, y_g3, rp_g3, n_g3, pa, "red")
+Spur(ctx).Gear(x_g3, y_g3, rp_g3, n_g3, pa, "green")
 ctx.restore()
 </script>
 </body>
@@ -951,7 +951,7 @@ class Spur(object):
     def __init__(self, ctx):
         self.ctx = ctx
  
-    def create_line(self, x1, y1, x2, y2, width=3, fill="red"):
+    def create_line(self, x1, y1, x2, y2, width=3, fill="gray"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
@@ -1073,9 +1073,13 @@ r = 0.8*(canvas.width/2)
 n = 25
 # 壓力角
 pa = 20
-Spur(ctx).Gear(x, y, r/5, n, pa, "yellow")
-Spur(ctx).Gear(x, y+160, r/5, n, pa, "red")
-Spur(ctx).Gear(x, y-160, r/5, n, pa, "green")
+Spur(ctx).Gear(x, y, r/8, n, pa, "green")
+Spur(ctx).Gear(x, y+106, r/8, n, pa, "yellow")
+Spur(ctx).Gear(x, y+212, r/8, n, pa, "orange")
+Spur(ctx).Gear(x, y+318, r/8, n, pa, "red")
+Spur(ctx).Gear(x, y-106, r/8, n, pa, "lightblue")
+Spur(ctx).Gear(x, y-212, r/8, n, pa, "blue")
+Spur(ctx).Gear(x, y-318, r/8, n, pa, "purple")
 
 </script>
 </body>

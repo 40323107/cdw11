@@ -35,15 +35,19 @@
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
 <v t="leo.20160516100958.1" a="E"><vh>@path cdw12</vh>
-<v t="leo.20160623145118.1"><vh>newHeadline</vh></v>
+<v t="leo.20160629223527.1"><vh>@edit ag1_40323107_cdw12_1.py</vh></v>
+<v t="leo.20160629224230.1"><vh>@edit ag1_40323107_cdw12_2.py</vh></v>
+<v t="leo.20160629224233.1"><vh>@edit ag1_40323107_cdw12_3.py</vh></v>
+<v t="leo.20160629224234.1"><vh>@edit ag1_40323107_cdw12_4.py</vh></v>
+<v t="leo.20160629224236.1"><vh>@edit ag1_40323107_cdw12_5.py</vh></v>
 </v>
-<v t="leo.20160623144932.1" a="E"><vh>@path cdw13</vh>
+<v t="leo.20160623144932.1"><vh>@path cdw13</vh>
 <v t="leo.20160624084545.1"><vh>@auto ag1_40323107_cdw13.py</vh></v>
 </v>
-<v t="leo.20160623144920.1" a="E"><vh>@path cdw14</vh>
+<v t="leo.20160623144920.1"><vh>@path cdw14</vh>
 <v t="leo.20160624100559.1"><vh>@auto ag1_40323107_cdw14.py</vh></v>
 </v>
-<v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
+<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
 <v t="amd.20160501221001.3"><vh>index</vh></v>
@@ -119,7 +123,11 @@ app.register_blueprint(users.a.g4.ag4_40323109_task2bacd.ag4_40323109bacd)
 app.register_blueprint(users.a.g4.ag4_40323109_task3abcd.ag4_40323109task3)
 app.register_blueprint(users.a.g1.cdw13.ag1_40323107_cdw13.ag1_40323107_cdw13)
 app.register_blueprint(users.a.g1.cdw14.ag1_40323107_cdw14.ag1_40323107_cdw14)
-
+app.register_blueprint(users.a.g1.cdw12.ag1_40323107_cdw12_1.ag1_40323107_cdw12_1)
+app.register_blueprint(users.a.g1.cdw12.ag1_40323107_cdw12_2.ag1_40323107_cdw12_2)
+app.register_blueprint(users.a.g1.cdw12.ag1_40323107_cdw12_3.ag1_40323107_cdw12_3)
+app.register_blueprint(users.a.g1.cdw12.ag1_40323107_cdw12_4.ag1_40323107_cdw12_4)
+app.register_blueprint(users.a.g1.cdw12.ag1_40323107_cdw12_5.ag1_40323107_cdw12_5)
 #bg1
 app.register_blueprint(users.b.g1.bg1_40123156.bg1_40123156)
 app.register_blueprint(users.b.g1.bg1_40123156_2.bg1_40123156_2)
@@ -378,6 +386,12 @@ import users.a.g4.ag4_40323109_task2bacd
 import users.a.g4.ag4_40323109_task3abcd
 import users.a.g1.cdw13.ag1_40323107_cdw13
 import users.a.g1.cdw14.ag1_40323107_cdw14
+import users.a.g1.cdw12.ag1_40323107_cdw12_1
+import users.a.g1.cdw12.ag1_40323107_cdw12_2
+import users.a.g1.cdw12.ag1_40323107_cdw12_3
+import users.a.g1.cdw12.ag1_40323107_cdw12_4
+import users.a.g1.cdw12.ag1_40323107_cdw12_5
+
 #bg1
 import users.b.g1.bg1_40123156
 import users.b.g1.bg1_40123156_2
@@ -732,6 +746,5 @@ def send_blog():
 <t tx="leo.20160516100958.1"></t>
 <t tx="leo.20160623144920.1"></t>
 <t tx="leo.20160623144932.1"></t>
-<t tx="leo.20160623145118.1"></t>
 </tnodes>
 </leo_file>
