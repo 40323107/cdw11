@@ -1,16 +1,24 @@
 # cdw11
-協同產品設計實習 W11 倉儲-master 分支將與 http://cdw11-ag100.rhcloud.com/ 雲端網站同步
 
-登記為 cdw11 協同者: http://simpleflask-2014openshift.rhcloud.com/cdw11form
+40323107
 
-所有協同內容衝突請直接在 github 倉儲中解決, OpenShift 對應平台僅用來執行本倉儲的最新程式版本
+2D 繪圖：
 
-各組員相關內容回報請利用 http://cdw11-ag100.rhcloud.com/static/blog/category/ag100.html (ag100 代表 a 班 g100 組)
+http://finalreport-40323107.rhcloud.com/ag1_40323107_cdw12_5/5 (w12)
 
-期中成績驗證:
+http://finalreport-40323107.rhcloud.com/ag1_40323107_cdw13/twocircle (w13)
 
-http://cdw11-ag100.rhcloud.com/images/cdw11_4a.png 
+http://finalreport-40323107.rhcloud.com/ag1_40323107_cdw14/spur2 (w14)
 
-http://cdw11-ag100.rhcloud.com/images/cdw11_badc.png
+遠端網誌內容最新版本：
 
-http://cdw11-ag100.rhcloud.com/images/cdw11_abcd.png
+個人 github 倉儲： https://github.com/40323107/cdw11.git (cdw11)
+
+個人 github 網頁：http://finalreport-40323107.rhcloud.com/static/blog/search.html?q=40323107 (cdw11)
+
+
+連結錯誤：(近端內容為最新，而遠端內容並非最新版)
+
+cdw11 - 個人 github 網頁：http://finalreport-40323107.rhcloud.com/static/blog/search.html?q=40323107
+
+期末報告 - 個人網誌： http://ag1finalreport-40323106.rhcloud.com//static/blog/40323107-final-qi-mo-bao-gao.html

@@ -2171,61 +2171,85 @@ X位置0&lt;/p&gt;
 &lt;h3&gt;自評：&lt;/h3&gt;
 
 &lt;h4&gt;80&lt;/h4&gt;</summary><category term="40323107"></category><category term="cdw18"></category><category term="ag1"></category></entry><entry><title>40323107 cdw17 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw17-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:58+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw17-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
-
-
 &lt;p&gt;第 17 週&lt;/p&gt;
 &lt;p&gt;日期：2016 / 06 / 13 (一)&lt;/p&gt;
 &lt;p&gt;任務： 2016springCD 期末自我評分。&lt;/p&gt;
-&lt;p&gt;利用 Leo Editor 執行程式開發
-http://chiamingyen.github.io/kmolab/blog/li-yong-leo-editor-zhi-xing-cheng-shi-kai-fa.html&lt;/p&gt;
-&lt;p&gt;檢查項目:&lt;/p&gt;
-&lt;p&gt;對於 Leo Editor 的了解?&lt;/p&gt;
-&lt;p&gt;Leo Editor 在協同產品設計上如何應用?&lt;/p&gt;
-&lt;p&gt;協同產品設計實習的網際 2D 協同繪圖
-http://chiamingyen.github.io/kmolab/blog/xie-tong-chan-pin-she-ji-shi-xi-de-wang-ji-2d-xie-tong-hui-tu.html&lt;/p&gt;
-&lt;p&gt;檢查項目:&lt;/p&gt;
-&lt;p&gt;能否在個人的 Github Pages 與 OpenShift 網頁上繪製任一字母與字串組合?&lt;/p&gt;
-&lt;p&gt;能否在分組中, 以協同方式完成任一字母與字串組合繪圖?&lt;/p&gt;
-&lt;p&gt;SVG 檔案解讀
-http://chiamingyen.github.io/kmolab/blog/svg-dang-an-jie-du.html&lt;/p&gt;
-&lt;p&gt;能否在 Solvespaece 繪製 2D 零件, 轉為 SVG 檔案, 然後利用 Python 在網際介面中解讀該 SVG 檔內容並完成對應繪圖?&lt;/p&gt;
-&lt;p&gt;協同流程的規劃與實踐
-http://chiamingyen.github.io/kmolab/blog/xie-tong-liu-cheng-de-gui-hua-yu-shi-jian.html&lt;/p&gt;
-&lt;p&gt;對於協同團隊透過特定流程, 以程式架構進行自動分組後進行協同產品設計開發專案的基本了解?&lt;/p&gt;
-&lt;p&gt;任務一 2D 協同繪圖
-http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu.html&lt;/p&gt;
-&lt;p&gt;http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu-zhi-er.html&lt;/p&gt;
-&lt;p&gt;http://chiamingyen.github.io/kmolab/blog/wang-ji-kua-lai-yuan-zi-yuan-gong-xiang-2d-ling-jian-hui-tu.html&lt;/p&gt;
-&lt;p&gt;http://chiamingyen.github.io/kmolab/blog/shi-yong-flask-cors-yan-shen-mo-zu.html&lt;/p&gt;
-&lt;p&gt;能否在分組內, 完成上述的協同繪圖任務?&lt;/p&gt;
-&lt;p&gt;自行車傳動 2D 鏈條繪圖
-http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu.html&lt;/p&gt;
-&lt;p&gt;http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu-er.html&lt;/p&gt;
-&lt;p&gt;能否在個人網頁或分組網頁中完成符合各種設計條件的 2D 鍊條傳動繪圖?&lt;/p&gt;
-&lt;p&gt;網際 2D 正齒輪傳動囓合繪圖
-http://chiamingyen.github.io/kmolab/blog/wang-ji-2d-zheng-chi-lun-chuan-dong-nie-he-hui-tu.html&lt;/p&gt;
-&lt;p&gt;能否在個人與分組網頁中完成各種傳動條件下的 2D 齒輪傳動繪圖?&lt;/p&gt;
-&lt;p&gt;網際 3D 正齒輪傳動模擬
-http://chiamingyen.github.io/kmolab/blog/wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni.html&lt;/p&gt;
-&lt;p&gt;能否在個人與分組 Onshape 環境中完成各種傳動條件下的 3D 齒輪傳動繪圖?&lt;/p&gt;
-&lt;p&gt;其他與課程相關零組件或自行車相關繪圖.&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw17"></category><category term="ag1"></category></entry><entry><title>40323107 cdw16 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw16-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:58+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw16-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 
 
-&lt;p&gt;第 16 週&lt;/p&gt;
-&lt;p&gt;日期：2016 / 06 / 06 (一)&lt;/p&gt;
-&lt;p&gt;任務：&lt;/p&gt;
-&lt;p&gt;端午節放假&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw16"></category><category term="ag1"></category></entry><entry><title>40323107 cdw15 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw15-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:58+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw15-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;h3&gt;利用 Leo Editor 執行程式開發&lt;/h3&gt;
 
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/li-yong-leo-editor-zhi-xing-cheng-shi-kai-fa.html"&gt;http://chiamingyen.github.io/kmolab/blog/li-yong-leo-editor-zhi-xing-cheng-shi-kai-fa.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;對於 Leo Editor 的了解？ 不太懂&lt;/p&gt;
+&lt;p&gt;Leo Editor 在協同產品設計上如何應用？ 難說&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;協同產品設計實習的網際 2D 協同繪圖&lt;/h3&gt;
 
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/li-yong-leo-editor-zhi-xing-cheng-shi-kai-fa.html"&gt;http://chiamingyen.github.io/kmolab/blog/xie-tong-chan-pin-she-ji-shi-xi-de-wang-ji-2d-xie-tong-hui-tu.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能否在個人的 Github Pages 與 OpenShift 網頁上繪製任一字母與字串組合？ 能&lt;/p&gt;
+&lt;p&gt;能否在分組中, 以協同方式完成任一字母與字串組合繪圖？ 否&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;SVG 檔案解讀&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/svg-dang-an-jie-du.html"&gt;http://chiamingyen.github.io/kmolab/blog/svg-dang-an-jie-du.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能否在 Solvespaece 繪製 2D 零件, 轉為 SVG 檔案, 然後利用 Python 在網際介面中解讀該 SVG 檔內容並完成對應繪圖？否&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;協同流程的規劃與實踐&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/xie-tong-liu-cheng-de-gui-hua-yu-shi-jian.html"&gt;http://chiamingyen.github.io/kmolab/blog/xie-tong-liu-cheng-de-gui-hua-yu-shi-jian.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;對於協同團隊透過特定流程, 以程式架構進行自動分組後進行協同產品設計開發專案的基本了解？分工合作、效率&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;任務一 2D 協同繪圖&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu.html"&gt;http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu-zhi-er.html"&gt;http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu-zhi-er.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/wang-ji-kua-lai-yuan-zi-yuan-gong-xiang-2d-ling-jian-hui-tu.html"&gt;http://chiamingyen.github.io/kmolab/blog/wang-ji-kua-lai-yuan-zi-yuan-gong-xiang-2d-ling-jian-hui-tu.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/shi-yong-flask-cors-yan-shen-mo-zu.html"&gt;http://chiamingyen.github.io/kmolab/blog/shi-yong-flask-cors-yan-shen-mo-zu.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能否在分組內, 完成上述的協同繪圖任務？ 不知道&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;自行車傳動 2D 鏈條繪圖&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu.html"&gt;http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu-er.html"&gt;http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu-er.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能否在個人網頁或分組網頁中完成符合各種設計條件的 2D 鍊條傳動繪圖？ 有點難度，可以嘗試&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/wang-ji-2d-zheng-chi-lun-chuan-dong-nie-he-hui-tu.html"&gt;http://chiamingyen.github.io/kmolab/blog/wang-ji-2d-zheng-chi-lun-chuan-dong-nie-he-hui-tu.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能否在個人與分組網頁中完成各種傳動條件下的 2D 齒輪傳動繪圖？ 簡單的可以，困難的要挑戰&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;網際 3D 正齒輪傳動模擬&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni.html"&gt;http://chiamingyen.github.io/kmolab/blog/wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能否在個人與分組 Onshape 環境中完成各種傳動條件下的 3D 齒輪傳動繪圖？ 簡單的可以，困難的要挑戰&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw17"></category><category term="ag1"></category></entry><entry><title>40323107 cdw15 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw15-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:58+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw15-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 &lt;p&gt;第 15 週&lt;/p&gt;
 &lt;p&gt;日期：2016 / 05 / 30 (一)&lt;/p&gt;
-&lt;p&gt;任務：&lt;/p&gt;
-&lt;p&gt;Onshape 3D 繪製齒輪&lt;/p&gt;
-&lt;p&gt;導入現有的公開正齒輪，組裝，處理齒輪與齒輪間的嚙合問題，&lt;/p&gt;
-&lt;p&gt;同齒嚙合&lt;/p&gt;
-&lt;p&gt;不同齒嚙合&lt;/p&gt;
-&lt;p&gt;多數齒嚙合&lt;/p&gt;
-&lt;p&gt;利用角度運算可解決齒輪間嚙合的問題&lt;/p&gt;
+&lt;p&gt;任務：Onshape 3D 繪製齒輪&lt;/p&gt;
+
+
+&lt;h3&gt;※任務說明：&lt;/h3&gt;
+
+&lt;h4&gt;利用 Onshape 3D 軟體繪製正齒輪，利用 SG 導入公開正齒輪，設定齒數、模數、嚙合角度，組裝多個正齒輪並處理齒輪與齒輪間的嚙合問題。&lt;/h4&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h3&gt;※任務成果：&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;同齒嚙合&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/MPHDcBc.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/574b985ae4b04aa3f56f9707/w/64d3e706c7496ae6a58295f5/e/836738a0f5a861699234bc19"&gt;https://cad.onshape.com/documents/574b985ae4b04aa3f56f9707/w/64d3e706c7496ae6a58295f5/e/836738a0f5a861699234bc19&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h3&gt;不同齒嚙合&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/hXER2Df.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5754d33fe4b02b152bff04f7/w/9f4d5df318969dd6dceafec8/e/f40f05107bd7997397660333"&gt;https://cad.onshape.com/documents/5754d33fe4b02b152bff04f7/w/9f4d5df318969dd6dceafec8/e/f40f05107bd7997397660333&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h3&gt;※問題與解決方法：&lt;/h3&gt;
+
+&lt;h4&gt;問題：齒輪嚙合&lt;/h4&gt;
+
+&lt;h4&gt;方法：利用角度運算可解決齒輪間嚙合的問題&lt;/h4&gt;
+
 &lt;p&gt;例如：齒數40vs齒數30
 T=40 
 1齒的角度為360/40=9
@@ -2234,52 +2258,227 @@ T=40
 1齒的角度為360/30=12
 1齒移動的齒數角度為12/2=6&lt;/p&gt;
 &lt;p&gt;以T=40為基準，調整T=30的齒數角度(offset)
-360/(30*2)&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw15"></category><category term="ag1"></category></entry><entry><title>40323107 cdw14 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw14-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw14-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+360/(30*2)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;h3&gt;心得：&lt;/h3&gt;
+&lt;h4&gt;整體而言，有收穫。&lt;/h4&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;自評：&lt;/h3&gt;
 
-
+&lt;h4&gt; 60 &lt;/h4&gt;</summary><category term="40323107"></category><category term="cdw15"></category><category term="ag1"></category></entry><entry><title>40323107 cdw14 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw14-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw14-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 &lt;p&gt;第 14 週&lt;/p&gt;
 &lt;p&gt;日期：2016 / 05 / 23 (一)&lt;/p&gt;
-&lt;p&gt;任務：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;網際 2D 正齒輪傳動囓合繪圖。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;網誌位置： &lt;a href="http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu-er.html"&gt;http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu-er.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2.網際機械設計 2D 繪圖。&lt;/p&gt;
-&lt;p&gt;網誌位置： &lt;a href="http://cadlab.mde.tw/post/wang-ji-ji-jie-she-ji-2d-hui-tu.html"&gt;http://cadlab.mde.tw/post/wang-ji-ji-jie-she-ji-2d-hui-tu.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;漸開線
-擺線&lt;/p&gt;
-&lt;p&gt;任務結果：&lt;/p&gt;
-&lt;p&gt;2D 正齒輪傳動囓合的html&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw14"></category><category term="ag1"></category></entry><entry><title>40323107 cdw13 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw13-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw13-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;p&gt;任務：網際機械設計 2D 繪圖。&lt;/p&gt;
 
 
+&lt;h3&gt;※任務成果：&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;html&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;正齒輪&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/KpQlt8Z.jpg" width="100%" /&gt;
+&lt;a href="file:///F:/0523/00.html"&gt;file:///F:/0523/00.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;正齒輪+粗線&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/Ah1kHcT.jpg" width="100%" /&gt;
+&lt;a href="file:///F:/0523/gear1.html"&gt;file:///F:/0523/gear1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;五個正齒輪嚙合(上下左右)&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/E8fU4fh.jpg" width="100%" /&gt;
+&lt;a href="file:///F:/0523/gear1_1.html"&gt;file:///F:/0523/gear1_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;兩個空心正齒輪錯位&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/njwLq9F.jpg" width="100%" /&gt;
+&lt;a href="file:///F:/0523/gear2_2.html"&gt;file:///F:/0523/gear2_2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;正齒輪+細線&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/eTErbjB.png" width="100%" /&gt;
+&lt;a href="file:///F:/0523/spur1.html"&gt;file:///F:/0523/spur1.html&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;實心&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;正齒輪&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/qc6IQfk.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;正齒輪+紅線+藍線&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/PUx9k9Y.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;5個正齒輪上下左右嚙合&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/BVbDRn4.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;正齒輪+細線&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/f0BXCUm.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;5個正齒輪水平嚙合&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/wIUBe6A.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;空心&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;正齒輪+紅線&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/20U44U8.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;紅黃綠&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/no6ge2N.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;七彩&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/AoIeTvI.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;※參考資料：&lt;/h3&gt;
+
+&lt;h4&gt;網際機械設計 2D 繪圖網誌位置：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/eDwsBtU.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cadlab.mde.tw/post/wang-ji-ji-jie-she-ji-2d-hui-tu.html"&gt;http://cadlab.mde.tw/post/wang-ji-ji-jie-she-ji-2d-hui-tu.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h4&gt;ag1_40323107_cdw14.py 架構&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=" http://i.imgur.com/CX6c47z.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;h3&gt;心得：&lt;/h3&gt;
+&lt;h4&gt;整體而言，很有趣、很有成就感，一整個樂在其中呢！&lt;/h4&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;自評：&lt;/h3&gt;
+
+&lt;h4&gt;80&lt;/h4&gt;</summary><category term="40323107"></category><category term="cdw14"></category><category term="ag1"></category></entry><entry><title>40323107 cdw13 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw13-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw13-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 &lt;p&gt;第 13 週&lt;/p&gt;
 &lt;p&gt;日期：2016 / 05 / 16 (一)&lt;/p&gt;
 &lt;p&gt;任務：&lt;/p&gt;
-&lt;p&gt;Jupyter：安裝模組 sympy&lt;/p&gt;
-&lt;p&gt;Solvespace ： 2D 繪製軟體&lt;/p&gt;
-&lt;p&gt;搜尋 cadlab&lt;/p&gt;
-&lt;p&gt;※參考資料&lt;/p&gt;
-&lt;p&gt;自行車傳動 2D 鏈條繪圖 (二)&lt;/p&gt;
+&lt;p&gt;(1)Jupyter：安裝模組 sympy&lt;/p&gt;
+&lt;p&gt;(2)Solvespace ： 2D 繪製軟體&lt;/p&gt;
+&lt;p&gt;(3)Google： 搜尋 cadlab&lt;/p&gt;
+
+
+&lt;h3&gt;※任務成果：&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h3&gt;Jupyter&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;h4&gt;說明：利用 Jupyter 建立一個 Python 3 的編輯區。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/OrUvSBJ.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：Jupyter 編輯區如下圖所示。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/y877jPw.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：Jupyter 編輯區的內容資料來源如下圖示。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/qdPDYsO.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：將複製的程式貼至Jupyter 編輯區內，如圖所示。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/vVcVBuR.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：如何運行Jupyter 編輯區內的程式，如圖所示。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/BV6eYGr.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：Jupyter 編輯區內沒有安裝 sympy 模組，所以無法執行程式。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/XVvNlc8.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：利用 cmd (系統管理員) 來安裝 sympy 模組。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/InHjpxV.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：sympy 模組已安裝完成，程式順利運行並得出結論。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/aRqkT7F.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Leo&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;h4&gt;說明：在 @path cdw13 下，建立 @edit a40323107.py 的檔案。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/NuX482C.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：內容如何產生、資料複製來源為何？&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/0FeSdbP.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：如何在 Leo 下打開 SciTE 編輯器。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/TlcQNOF.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：利用 SciTE 編輯器 開啟 a40323107.py ，修改內容。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/yHf9MFR.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：成功修改內容。(將 a40323107 replace ag100)&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/shUMwBI.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：導入修改過後的 a40323107.py 。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/uxnCeNA.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：驗證上圖所敘的結論。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/lSGlxid.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;說明：最終成果。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/Yn2HO0s.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;※參考資料：&lt;/h3&gt;
+
+&lt;h3&gt;自行車傳動 2D 鏈條繪圖 (二)&lt;/h3&gt;
+
 &lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu-er.html"&gt;http://chiamingyen.github.io/kmolab/blog/zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu-er.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CADLab (虎尾科大MDE)&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://cadlab.mde.tw/post/index.html"&gt;http://cadlab.mde.tw/post/index.html&lt;/a&gt;&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw13"></category><category term="ag1"></category></entry><entry><title>40323107 cdw12 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw12-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw12-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;h3&gt;CADLab (虎尾科大MDE)&lt;/h3&gt;
 
+&lt;p&gt;&lt;a href="http://cadlab.mde.tw/post/index.html"&gt;http://cadlab.mde.tw/post/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;心得：&lt;/h3&gt;
 
+&lt;h4&gt;這週仍然延續上週所學，只是又添加一些知識，若跟著教授的進度執行，並不會很困難，因為大部分都是複製老師所提供的教材然後跟著操作即可，感覺沒什麼大問題，只是要靈活運用的話，目前不太行，得花時間好好研究呢！總之，我覺得整體成校還不錯。&lt;/h4&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;自評：&lt;/h3&gt;
+
+&lt;h4&gt;75&lt;/h4&gt;</summary><category term="40323107"></category><category term="cdw13"></category><category term="ag1"></category></entry><entry><title>40323107 cdw12 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw12-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw12-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 &lt;p&gt;第12週&lt;/p&gt;
 &lt;p&gt;日期：2016/05/09 (一)&lt;/p&gt;
 &lt;p&gt;任務：完成指定的3個圖形的零件組合繪圖。&lt;/p&gt;
+
+
 &lt;p&gt;成果：&lt;/p&gt;
 &lt;p&gt;(1)4a圖：
-&lt;img src="https://my.pcloud.com/publink/show?code=XZHnAYZgaqSjFnaUK4c8hbTGldr4SpQ9NT7" width="100%" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://my.pcloud.com/publink/show?code=XZ2nAYZaDpxsnzwLXhO4Y7UyWEHj4DhjQhy" width="100%" /&gt;&lt;/p&gt;
+&lt;img src="http://i.imgur.com/427BTcm.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/nlvCahW.jpg" width="100%" /&gt;&lt;/p&gt;
 &lt;p&gt;(2)badc圖：
-&lt;img src="https://my.pcloud.com/publink/show?code=XZCnAYZgV2kA5UyJU5Oabyw0rcrkHzLj5nV" width="100%" /&gt;
+&lt;img src="http://i.imgur.com/VYKTkeH.jpg" width="100%" /&gt;
 ※橫式&lt;/p&gt;
 &lt;p&gt;(3)abcd圖：
-&lt;img src="https://my.pcloud.com/publink/show?code=XZ1nAYZHyxDHvHECYy11GuRuY7pkRXDmbb7" width="100%" /&gt;
+&lt;img src="http://imgur.com/iqsUk2N" width="100%" /&gt;
 ※直式&lt;/p&gt;
-&lt;p&gt;自評
-說明cdw11和cdw2&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw12"></category><category term="ag1"></category></entry><entry><title>40323107 cdw11 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;心得：&lt;/h3&gt;
+
+&lt;h4&gt;本週任務是承接上一週的任務，若上週已完成任務則這週就比較清閒，但還是有其他知識需要學習的，只是負擔沒那麼重，這次上課有提到 cdw2 和 cdw11 的差異，還有利用 fork (互刻) 建立個人 github 倉儲 (cdw11的)，以及資料推送程序為：個人→組別→全班，還有說明及運用 Jupytor 並安裝 sympy 模組...等，滿多知識需要學習並吸收呢！總而言之，還行。&lt;/h4&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;自評：&lt;/h3&gt;
+
+&lt;h4&gt;75&lt;/h4&gt;</summary><category term="40323107"></category><category term="cdw12"></category><category term="ag1"></category></entry><entry><title>40323107 cdw11 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323107-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:54+08:00</updated><author><name>40323107</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323107-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 &lt;p&gt;第11週&lt;/p&gt;
 &lt;p&gt;日期：2016/05/02 (一)&lt;/p&gt;
 &lt;p&gt;任務：完成指定圖形的零件組合2D繪圖。&lt;/p&gt;
@@ -2290,16 +2489,49 @@ T=40
 
 &lt;h4&gt;請各組在 CDW11 下課前完成指定圖形的零件組合2D繪圖。&lt;/h4&gt;
 
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;hr /&gt;
 &lt;h3&gt;※任務成果：&lt;/h3&gt;
 
-&lt;h5&gt;說明：利用 Leo 開啟 aG1.leo(組別倉儲的leo)，編輯 REAEME.md 檔案，於 REAEME.md 新增個人學號與 Github Pages個人網頁網址。&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src="http://i.imgur.com/aA8TqeK.jpg" width="100%" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;h5&gt;說明：推送至遠端 Github - 2016springcd_aG1(組別倉儲)所呈現的結果。&lt;/h5&gt;
+&lt;h4&gt;2D 繪圖 - 4A .py檔創建。&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src="http://i.imgur.com/PW1mD8M.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/Yj6U4Pf" width="100%" /&gt;&lt;/p&gt;
+&lt;h4&gt;網際 2D 繪圖 - 4a：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/427BTcm.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;h4&gt;網際 2D 繪圖 - 4A：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/nlvCahW.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;2D 繪圖 - BADC .py檔創建。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://imgur.com/l9WFSLu" width="100%" /&gt;&lt;/p&gt;
+&lt;h4&gt;網際 2D 繪圖 - BADC (橫式)：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/VYKTkeH.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;2D 繪圖 - ABCD .py檔創建。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://imgur.com/iqsUk2N" width="100%" /&gt;&lt;/p&gt;
+&lt;h4&gt;網際 2D 繪圖 - ABCD (直式)：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/fUsZj23.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;2D 繪圖 - BACD .py檔創建。&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://imgur.com/fEcnVB2" width="100%" /&gt;&lt;/p&gt;
+&lt;h4&gt;網際 2D 繪圖 - BACD (橫式)：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/3zin4ed.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;畫布註冊步驟1：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/RApjRVQ.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h4&gt;畫布註冊步驟2：&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/2mWJXL5.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 &lt;h3&gt;※參考指南：&lt;/h3&gt;
 
 &lt;h4&gt;pelican 網誌位置：&lt;/h4&gt;
@@ -2317,14 +2549,21 @@ T=40
 &lt;h4&gt;網際 2D 繪圖 - 4A：&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_4a.png" width="100%" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;h4&gt;網際 2D 繪圖 - BADC (橫式)：&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_badc.png" width="100%" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;h4&gt;網際 2D 繪圖 - ABCD (直式)：&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_abcd.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40323107"></category><category term="cdw11"></category><category term="ag1"></category></entry><entry><title>40323105 final 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323105-final-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:53+08:00</updated><author><name>40323105</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323105-final-bao-gao.html</id><summary type="html">&lt;p&gt;1.繪出2D齒輪&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_abcd.png" width="100%" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;心得：&lt;/h3&gt;
+
+&lt;h4&gt;期中之前的進度算告一段落了，從這週開始要進入新的專案唷！所以，從W11 - W18均為cdw11專案啦！不過也不用太擔心，若你cdw2有好好學、進度有跟上，就沒太大的問題，只是些微改變而已，不懂也可以請教懂得人或者先複製別人的然後在研究內容，藉由上續可以觀察到這週目前還是緩衝期，要好好把握時間才行呢！&lt;/h4&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;自評：&lt;/h3&gt;
+
+&lt;h4&gt;70&lt;/h4&gt;</summary><category term="40323107"></category><category term="cdw11"></category><category term="ag1"></category></entry><entry><title>40323105 final 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323105-final-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:14:53+08:00</updated><author><name>40323105</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-29:static/blog/40323105-final-bao-gao.html</id><summary type="html">&lt;p&gt;1.繪出2D齒輪&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://cdw13-40323105.rhcloud.com/a40323105/ag1_2D"&gt;http://cdw13-40323105.rhcloud.com/a40323105/ag1_2D&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://imgur.com/t3D6G9C.jpg" width="100%" /&gt;&lt;/p&gt;
 &lt;p&gt;2.繪出3D嚙合齒輪&lt;/p&gt;
